@@ -1,0 +1,23 @@
+{
+  "name": "mernsite",
+  "version": "1.0.0",
+  "description": "server for backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipuluthaiah/Ecommerce-Website.git"
+  },
+  "author": "vipul uthaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipuluthaiah/Ecommerce-Website/issues"
+  },
+  "homepage": "https://github.com/vipuluthaiah/Ecommerce-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}

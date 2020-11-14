@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'BBT-Bentley-Continental-GTC-(2)',
     image: '/images/1.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: '2',
     name: 'Benz',
     image: '/images/2.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: '3',
     name: 'Mercedes-Benz G63 AMG Exterior',
     image: '/images/3.jpeg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: '4',
     name: 'Beetel',
     image: '/images/4.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: '5',
     name:'ferrari',
     image: '/images/5.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: '6',
     name: 'Aston Marteen',
     image: '/images/6.jpg',
     description:
@@ -78,7 +72,6 @@ const products = [
     numReviews: 4,
   },
   {
-      _id: '7',
       name: '2017-Porsche-718-Cayman-Orange-1',
       image: '/images/7.jpg',
       description:
@@ -92,7 +85,6 @@ const products = [
     },
 
     {
-      _id: '9',
       name: 'Msutang',
       image: '/images/9.jpg',
       description:
@@ -105,7 +97,6 @@ const products = [
       numReviews: 4,
     },
     {
-      _id: '10',
       name: 'Rolls Royce',
       image: '/images/10.jpg',
       description:
@@ -118,5 +109,4 @@ const products = [
       numReviews: 4,
     },
 ]
-
-module.exports = products
+export default products

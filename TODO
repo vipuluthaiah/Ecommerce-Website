@@ -3,7 +3,181 @@ Todo:
    Push the code to github
    git init
    git add README.md
-
-      git commit -m "first commit"git branch -M main
-   git remote add origin https://github.com/vipuluthaiah/Ecommerce-Website.git
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin h
+   ttps://github.com/vipuluthaiah/Ecommerce-Website.git
    git push -u origin main
+
+
+
+  
+
+   mongodb+srv://luxuryweels:luxuryweels@luxuryweels.qrqqo.mongodb.net/luxuryweels
+
+mongodb+srv://luxuryweels:<password>@luxuryweels.qrqqo.mongodb.net/test
+mongodb+srv://luxuryweels:<password>@luxuryweels.qrqqo.mongodb.net/test
+mongodb+srv://luxuryweels:<password>@luxuryweels.qrqqo.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+const products = [
+  {
+    name: 'BBT-Bentley-Continental-GTC-(2)',
+    image: '/images/1.jpg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 89444.99,
+    countInStock: 3,
+    rating: 4.5,
+    numReviews: 4,
+  },
+  {
+    name: 'Benz',
+    image: '/images/2.jpg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 593339.99,
+    countInStock: 10,
+    rating: 4.0,
+    numReviews: 4,
+  },
+  {
+    name: 'Mercedes-Benz G63 AMG Exterior',
+    image: '/images/3.jpeg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Cannon',
+    category: 'Electronics',
+    price: 923339.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 3,
+  },
+  {
+    name: 'Beetel',
+    image: '/images/4.jpg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Sony',
+    category: 'Electronics',
+    price: 333399.99,
+    countInStock: 10,
+    rating: 5,
+    numReviews: 3,
+  },
+  {
+    name:'ferrari',
+    image: '/images/5.jpg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Logitech',
+    category: 'Electronics',
+    price: 49444.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 2,
+  },
+  {
+    name: 'Aston Marteen',
+    image: '/images/6.jpg',
+    description:
+      'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+    brand: 'Amazon',
+    category: 'Electronics',
+    price: 24449.99,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 4,
+  },
+  {
+      name: '2017-Porsche-718-Cayman-Orange-1',
+      image: '/images/7.jpg',
+      description:
+        'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+      brand: 'Amazon',
+      category: 'Electronics',
+      price: 29332.99,
+      countInStock: 0,
+      rating: 4,
+      numReviews: 4,
+    },
+
+    {
+      name: 'Msutang',
+      image: '/images/9.jpg',
+      description:
+        'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+      brand: 'Amazon',
+      category: 'Electronics',
+      price: 2933333.99,
+      countInStock: 0,
+      rating: 4,
+      numReviews: 4,
+    },
+    {
+      name: 'Rolls Royce',
+      image: '/images/10.jpg',
+      description:
+        'A supercar – also called exotic car – is a loosely defined description of street-legal, high-performance luxury sports car. Since the 2000s or 2010s, the term hypercar has come into use for the highest performing supercars.',
+      brand: 'Amazon',
+      category: 'Electronics',
+      price: 233339.99,
+      countInStock: 0,
+      rating: 4,
+      numReviews: 4,
+    },
+]
+export default products
+
+046d2a581df1fc47b7b3258839227e5a725fd7d9053625cfffc8b6ee29f18be0
+
+
+messilikit@gmail.com
+Added Maori language
+Language - Maori
+ISO 639-1 =mi
+Account number: 5d5542b8749534b1c6b51ab7819382ce773439bb5aacdc93ad0b79ae4ff9f613
+                1dc35bb31ef54ffdb8ac5169ab52df6d02e8cbc4f5b24ebc2a067c7b44b8df65
+
+
+
+suraj surajsuru322@gmail.com
+Added Tajik language
+Language - Tajik
+ISO 639-1 = tg
+tg:  'салом дунё'
+Account number:  8994e4e846802df3fb42d1c39efbded0eae641ed3bb36338de94aec3da6dba0f
+
+Added  Scottish Gaelic language
+Language - Scottish Gaelic
+ISO 639-1 = gd
+gd:  'Hàlo a Shaoghail'
+Account number:    1dc35bb31ef54ffdb8ac5169ab52df6d02e8cbc4f5b24ebc2a067c7b44b8df65
+
+
+
+Added  Shona language
+Language - Shona
+ISO 639-1 = sn
+gd:  'Mhoro Nyika'
+Account number:    1dc35bb31ef54ffdb8ac5169ab52df6d02e8cbc4f5b24ebc2a067c7b44b8df65
+
+
+
+Added  Nyanja language
+Language - Nyanja
+ISO 639-1 = ny
+gd:  'Moni Dziko Lapansi'
+Account number:    1dc35bb31ef54ffdb8ac5169ab52df6d02e8cbc4f5b24ebc2a067c7b44b8df65
+
+
+
+
+
+
+
+npm run data:destroy

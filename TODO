@@ -181,3 +181,7 @@ Account number:    1dc35bb31ef54ffdb8ac5169ab52df6d02e8cbc4f5b24ebc2a067c7b44b8d
 
 
 npm run data:destroy
+
+
+
+mongodb+srv://hacker:<password>@luxuryweels.ak4rc.mongodb.net/test

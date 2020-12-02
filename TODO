@@ -5,13 +5,13 @@ Todo:
    git add README.md
    git commit -m "first commit"
    git branch -M main
-   git remote add origin h
-   ttps://github.com/vipuluthaiah/Ecommerce-Website.git
+   git remote add origin https://github.com/vipuluthaiah/Ecommerce-Website.git
    git push -u origin main
 
 
 
-  
+   username = "botforlife101"  # input("Enter username :")
+   pwd = "pythonbot01"  
 
    mongodb+srv://luxuryweels:luxuryweels@luxuryweels.qrqqo.mongodb.net/luxuryweels
 
